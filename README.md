@@ -4,8 +4,7 @@ My name is My Tran. At university and workplaces, I often worked with data, but 
 
 The more I learned and practiced, the more certain I felt that this was exactly what I was looking for. I love playing with data, making sense of it, telling stories about it, and using it to make better evidence-based decisions. 
 
-I am passionate about using data to help businesses make better decisions and achieve their goals. This is why I want to develop a professional career in business data analytics. I am eager to learn and grow in this field, and I am confident that I can contribute significant value to any organization.
-
+I am passionate about using data to help businesses make better decisions and achieve their goals. This is why I want to develop a professional career in business data analytics. I am eager to learn and grow in this field, and I am confident that I can contribute value to organizations.
 
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/thien-my-tran/) or [Email](mailto:tranthienmy2201@gmail.com)
 
